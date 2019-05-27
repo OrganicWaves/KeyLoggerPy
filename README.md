@@ -1,2 +1,2 @@
 # KeyLoggerPy
-A simple keylogger in python
+A simple keylogger in python, educational use only.
